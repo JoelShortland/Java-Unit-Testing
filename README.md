@@ -1,0 +1,1 @@
+A unit testing script designed to test an unseen Java program (only the Javadoc was provided) as part of a USYD SOFT3202 assignment. Uses both Junit and Mockito in order to ensure no external functions are used in each test, and each function is tested individually. Saved here in this portfolio as a PDF for readability reasons. 
